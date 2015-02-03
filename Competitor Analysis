@@ -2,10 +2,33 @@ http://en.wikipedia.org/wiki/Competitor_analysis
 
 Some of the current social VR experiences:
 
-High Fidelity: https://highfidelity.io/
-AltSpaceVR: http://altvr.com/
+**High Fidelity: https://highfidelity.io/**
+
+Focused on ways to personally interact using different hardware.
+Little mention of collaborative content creation.
+Open source but aimed toward JavaScript developers.
+Utilizes home computers for scaling. 
+Similar virtual currency to $Linden
+
+**AltSpaceVR: http://altvr.com/**
+
+Focused on human interaction and sharing media.
+WebGL scripts can be brought in from the web and viewed in 3D
+No collaborative content creation.
+Little room for custom content aside from Javascript / WebGL.
+One avatar model 'as realistic models do not work'
+Limited areas (approx 8).
+Unity based engine.
+
 VR Chat: http://vrchat.net/
+
+Focused on voice communication.
+...
+
 RiftMax Theater: http://www.riftmax.com/
+
+Focused on ..
+
 Scene VR: http://www.scenevr.com/
 
 
