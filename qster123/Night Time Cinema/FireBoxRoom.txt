@@ -18,7 +18,7 @@
 <AssetImage id="howtocine" src="howtocinema.jpg" />
 <AssetWebSurface id="connectcast" src="http://sync-video.com/tv/VRSites" />
 </Assets>
-<Room use_local_asset="room_plane" visible="false" pos="-36.000000 0.000000 -5.000000" xdir="0.000000 0.000000 -1.000000" ydir="0.000000 1.000000 0.000000" zdir="1.000000 0.000000 0.000000" col="1.000000 1.000000 1.000000" skybox_down_id="sky_down" skybox_front_id="sky_front" skybox_left_id="sky_left" skybox_back_id="sky_back" skybox_right_id="sky_right" skybox_up_id="sky_up" near_dist="0.010000" far_dist="10000.000000" locked="true">
+<Room use_local_asset="room_plane" visible="false" pos="-36.000000 0.000000 -5.000000" xdir="0.000000 0.000000 -1.000000" ydir="0.000000 1.000000 0.000000" zdir="1.000000 0.000000 0.000000" skybox_down_id="sky_down" skybox_front_id="sky_front" skybox_left_id="sky_left" skybox_back_id="sky_back" skybox_right_id="sky_right" skybox_up_id="sky_up" near_dist="0.010000" far_dist="10000.000000" locked="true">
 <Object id="body3" js_id="28" pos="-13.800000 0.000000 4.500000" xdir="-0.052 0.000 -0.999" zdir="0.999 0.000 -0.052" scale="1.300000 1.300000 1.300000" col="0.650 0.670 0.530" />
 <Object id="body1" js_id="11" pos="-14.300000 0.000000 -0.300000" xdir="0.000 0.000 -1.000" zdir="1.000 0.000 0.000" scale="1.300000 1.300000 1.300000" col="0.390 0.590 0.350" collision_id="car_coll" />
 <Object id="tree" js_id="40" pos="-12.099999 -2.100000 26.000000" xdir="-0.500 0.000 -0.866" zdir="0.866 0.000 -0.500" scale="8.000000 8.000000 8.000000" col="0.150 0.150 0.150" lighting="false" cull_face="none" />
